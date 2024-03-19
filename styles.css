@@ -1,13 +1,14 @@
-/*  your css code here. If applicable */
+
 * body {
     background-image: url(https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg);
    
-    background-position: center;
-    color: white ;
+	color: white ;
     font-family: Arial sans-serif;
+    size:10px;
+	
   }
 
-*h1{
+h1{
 
 	 text-align: center; 
 	
